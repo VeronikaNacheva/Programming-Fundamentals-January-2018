@@ -1,0 +1,1 @@
+https://judge.softuni.bg/Contests/175/Objects-and-Classes-Lab
